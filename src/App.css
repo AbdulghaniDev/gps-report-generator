@@ -1,0 +1,7 @@
+.App {
+  background-image: url("./assets/Wallpaper_Excel_9.png");
+  object-fit: cover;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+}

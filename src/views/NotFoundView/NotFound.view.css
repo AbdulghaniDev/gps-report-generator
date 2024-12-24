@@ -1,0 +1,35 @@
+.notfound-style {
+  position: absolute;
+  left: 40%;
+  top: 40%;
+  width: 400px;
+  height: 200px;
+}
+
+.notfound-container {
+  position: relative;
+}
+
+.notfound-shadow {
+  width: 400px;
+  height: 200px;
+  background-color: black;
+  opacity: 0.5;
+  position: absolute;
+  border-radius: 20px;
+  transform: translate(-12%, -35%);
+  -webkit-transform: translate(-12%, -35%);
+  -moz-transform: translate(-12%, -35%);
+  -ms-transform: translate(-12%, -35%);
+  -o-transform: translate(-12%, -35%);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+
+h1 {
+  position: absolute;
+  color: white;
+  z-index: 4;
+}
